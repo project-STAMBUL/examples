@@ -28,7 +28,7 @@ export const CurrentConfig: ExampleConfig = {
   env: Environment.MAINNET,
   rpc: {
     local: 'http://localhost:8545',
-    mainnet: 'https://mainnet.infura.io/v3/0ac57a06f2994538829c14745750d721',
+    mainnet: 'https://mainnet.infura.io/v3/191f1a7c504d40af8a7f06d458c631a7',
   },
   pool: {
     token0: USDC_TOKEN,

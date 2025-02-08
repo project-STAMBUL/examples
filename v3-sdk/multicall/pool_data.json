@@ -1,0 +1,816 @@
+[
+  {
+    "poolAddress": "0xe76154de890a34a3af778f06b2af535a584aeb1e",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "585399641169107390359640662",
+      "tick": -98161
+    },
+    "liquidity": "10777026202598096544428",
+    "tickSpacing": 200,
+    "tickIndices": [
+      -887200,
+      -100200,
+      -96000,
+      887200
+    ],
+    "ticks": [
+      {
+        "index": -887200,
+        "liquidityGross": "8904870451259109018959",
+        "liquidityNet": "8904870451259109018959"
+      },
+      {
+        "index": -100200,
+        "liquidityGross": "1872155751338987525469",
+        "liquidityNet": "1872155751338987525469"
+      },
+      {
+        "index": -96000,
+        "liquidityGross": "1872155751338987525469",
+        "liquidityNet": "-1872155751338987525469"
+      },
+      {
+        "index": 887200,
+        "liquidityGross": "8904870451259109018959",
+        "liquidityNet": "-8904870451259109018959"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x8f9a5dbcd942d9ab4f1ce751c9177879e5366366",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "263682309869490011279289065",
+      "tick": -114113
+    },
+    "liquidity": "3518163983937640075603",
+    "tickSpacing": 200,
+    "tickIndices": [
+      -887200,
+      -114200,
+      -108000,
+      887200
+    ],
+    "ticks": [
+      {
+        "index": -887200,
+        "liquidityGross": "1699999200000000000000",
+        "liquidityNet": "1699999200000000000000"
+      },
+      {
+        "index": -114200,
+        "liquidityGross": "1818164783937640075603",
+        "liquidityNet": "1818164783937640075603"
+      },
+      {
+        "index": -108000,
+        "liquidityGross": "1818164783937640075603",
+        "liquidityNet": "-1818164783937640075603"
+      },
+      {
+        "index": 887200,
+        "liquidityGross": "1699999200000000000000",
+        "liquidityNet": "-1699999200000000000000"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0xb26a868ffa4cbba926970d7ae9c6a36d088ee38c",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "1161960265585562901930479",
+      "tick": -222611
+    },
+    "liquidity": "17545401124383166",
+    "tickSpacing": 60,
+    "tickIndices": [
+      -887220,
+      887220
+    ],
+    "ticks": [
+      {
+        "index": -887220,
+        "liquidityGross": "17545401124383166",
+        "liquidityNet": "17545401124383166"
+      },
+      {
+        "index": 887220,
+        "liquidityGross": "17545401124383166",
+        "liquidityNet": "-17545401124383166"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x3eba8944419ae841917d4e36534f6b2bbc17d16b",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "308336490325224228854180504",
+      "tick": -110984
+    },
+    "liquidity": "0",
+    "tickSpacing": 200,
+    "tickIndices": [],
+    "ticks": []
+  },
+  {
+    "poolAddress": "0x105d9c54a7ef600b9bcc31024f0ba58295d1d829",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "32302033914608806035185797",
+      "tick": -156107
+    },
+    "liquidity": "26032844307470793381322",
+    "tickSpacing": 200,
+    "tickIndices": [
+      -887200,
+      -159400,
+      -159000,
+      -156800,
+      -156600,
+      -156000,
+      -155800,
+      -155600,
+      -155200,
+      -149800,
+      -136800,
+      -133600,
+      -132600,
+      -130600,
+      -124200,
+      887200
+    ],
+    "ticks": [
+      {
+        "index": -887200,
+        "liquidityGross": "1923538406167134475180",
+        "liquidityNet": "1923538406167134475180"
+      },
+      {
+        "index": -159400,
+        "liquidityGross": "5108464836859670953177",
+        "liquidityNet": "5108464836859670953177"
+      },
+      {
+        "index": -159000,
+        "liquidityGross": "6773259661716180748974",
+        "liquidityNet": "6773259661716180748974"
+      },
+      {
+        "index": -156800,
+        "liquidityGross": "522978160882386633312",
+        "liquidityNet": "522978160882386633312"
+      },
+      {
+        "index": -156600,
+        "liquidityGross": "11704603241845420570679",
+        "liquidityNet": "11704603241845420570679"
+      },
+      {
+        "index": -156000,
+        "liquidityGross": "15378262876324159462880",
+        "liquidityNet": "15378262876324159462880"
+      },
+      {
+        "index": -155800,
+        "liquidityGross": "11704603241845420570679",
+        "liquidityNet": "-11704603241845420570679"
+      },
+      {
+        "index": -155600,
+        "liquidityGross": "1469057826522668869493",
+        "liquidityNet": "1469057826522668869493"
+      },
+      {
+        "index": -155200,
+        "liquidityGross": "6773259661716180748974",
+        "liquidityNet": "-6773259661716180748974"
+      },
+      {
+        "index": -149800,
+        "liquidityGross": "15378262876324159462880",
+        "liquidityNet": "-15378262876324159462880"
+      },
+      {
+        "index": -136800,
+        "liquidityGross": "5108464836859670953177",
+        "liquidityNet": "-5108464836859670953177"
+      },
+      {
+        "index": -133600,
+        "liquidityGross": "522978160882386633312",
+        "liquidityNet": "-522978160882386633312"
+      },
+      {
+        "index": -132600,
+        "liquidityGross": "1469057826522668869493",
+        "liquidityNet": "-1469057826522668869493"
+      },
+      {
+        "index": -130600,
+        "liquidityGross": "53297025670881055550736",
+        "liquidityNet": "53297025670881055550736"
+      },
+      {
+        "index": -124200,
+        "liquidityGross": "53297025670881055550736",
+        "liquidityNet": "-53297025670881055550736"
+      },
+      {
+        "index": 887200,
+        "liquidityGross": "1923538406167134475180",
+        "liquidityNet": "-1923538406167134475180"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x0565e272ef94717943a43cb55d9a191d67bb614e",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "4295128740",
+      "tick": -887272
+    },
+    "liquidity": "0",
+    "tickSpacing": 200,
+    "tickIndices": [
+      -391600,
+      -277200
+    ],
+    "ticks": [
+      {
+        "index": -391600,
+        "liquidityGross": "5487691381851609649",
+        "liquidityNet": "5487691381851609649"
+      },
+      {
+        "index": -277200,
+        "liquidityGross": "5487691381851609649",
+        "liquidityNet": "-5487691381851609649"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0xe60fba68aa34040a1da64cc661d06920853c16cf",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "52074491678178841027302568",
+      "tick": -146556
+    },
+    "liquidity": "1513789152737713",
+    "tickSpacing": 10,
+    "tickIndices": [
+      -887270,
+      -147670,
+      -145660,
+      887270
+    ],
+    "ticks": [
+      {
+        "index": -887270,
+        "liquidityGross": "176269647961148",
+        "liquidityNet": "176269647961148"
+      },
+      {
+        "index": -147670,
+        "liquidityGross": "1337519504776565",
+        "liquidityNet": "1337519504776565"
+      },
+      {
+        "index": -145660,
+        "liquidityGross": "1337519504776565",
+        "liquidityNet": "-1337519504776565"
+      },
+      {
+        "index": 887270,
+        "liquidityGross": "176269647961148",
+        "liquidityNet": "-176269647961148"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x595bbf063946ca4f7a8483472d814742974eab7f",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "79228162514264337593543950336",
+      "tick": 0
+    },
+    "liquidity": "1000000000000000000053",
+    "tickSpacing": 200,
+    "tickIndices": [
+      -887200,
+      887200
+    ],
+    "ticks": [
+      {
+        "index": -887200,
+        "liquidityGross": "1000000000000000000053",
+        "liquidityNet": "1000000000000000000053"
+      },
+      {
+        "index": 887200,
+        "liquidityGross": "1000000000000000000053",
+        "liquidityNet": "-1000000000000000000053"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0xdbfe591c6b6808a82495f111834193ff3a44291d",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "9316690785104480769182",
+      "tick": -319137
+    },
+    "liquidity": "185406100911895266",
+    "tickSpacing": 60,
+    "tickIndices": [
+      -887220,
+      887220
+    ],
+    "ticks": [
+      {
+        "index": -887220,
+        "liquidityGross": "185406100911895266",
+        "liquidityNet": "185406100911895266"
+      },
+      {
+        "index": 887220,
+        "liquidityGross": "185406100911895266",
+        "liquidityNet": "-185406100911895266"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x8193296ff510a1b1c15025f8ee21f5284cb5e48a",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "175612819839532457735461703",
+      "tick": -122243
+    },
+    "liquidity": "3428052187713287730913",
+    "tickSpacing": 60,
+    "tickIndices": [
+      -887220,
+      887220
+    ],
+    "ticks": [
+      {
+        "index": -887220,
+        "liquidityGross": "3428052187713287730913",
+        "liquidityNet": "3428052187713287730913"
+      },
+      {
+        "index": 887220,
+        "liquidityGross": "3428052187713287730913",
+        "liquidityNet": "-3428052187713287730913"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x0624351a19d126b46dbb881e4fc1e6ce3b3663d8",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "80533064686063695931601",
+      "tick": -275998
+    },
+    "liquidity": "9048048667088975692",
+    "tickSpacing": 60,
+    "tickIndices": [
+      -276060,
+      -275880
+    ],
+    "ticks": [
+      {
+        "index": -276060,
+        "liquidityGross": "9048048667088975692",
+        "liquidityNet": "9048048667088975692"
+      },
+      {
+        "index": -275880,
+        "liquidityGross": "9048048667088975692",
+        "liquidityNet": "-9048048667088975692"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x17f95ba3d1db1ca0fb27dea49cb174622bffd724",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "584315140857107043371510941",
+      "tick": -98198
+    },
+    "liquidity": "5594489918300940201312",
+    "tickSpacing": 200,
+    "tickIndices": [
+      -104200,
+      -74200
+    ],
+    "ticks": [
+      {
+        "index": -104200,
+        "liquidityGross": "5594489918300940201312",
+        "liquidityNet": "5594489918300940201312"
+      },
+      {
+        "index": -74200,
+        "liquidityGross": "5594489918300940201312",
+        "liquidityNet": "-5594489918300940201312"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x378a8579144890d665f6b4bde779ad966d633fe9",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "13042530224746943908760973733300",
+      "tick": 102077
+    },
+    "liquidity": "7846215860922819",
+    "tickSpacing": 200,
+    "tickIndices": [
+      101200,
+      887200
+    ],
+    "ticks": [
+      {
+        "index": 101200,
+        "liquidityGross": "7846215860922819",
+        "liquidityNet": "7846215860922819"
+      },
+      {
+        "index": 887200,
+        "liquidityGross": "7846215860922819",
+        "liquidityNet": "-7846215860922819"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x65b26fa0950dc2db53344898012b2a05a5b9f72f",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "985377943405422665702020045177",
+      "tick": 50416
+    },
+    "liquidity": "416207374462950506542868365",
+    "tickSpacing": 200,
+    "tickIndices": [
+      -887200,
+      47000,
+      48600,
+      49600,
+      51200,
+      53000,
+      65000,
+      69200,
+      84600,
+      887200
+    ],
+    "ticks": [
+      {
+        "index": -887200,
+        "liquidityGross": "64807406984078602310203755",
+        "liquidityNet": "64807406984078602310203755"
+      },
+      {
+        "index": 47000,
+        "liquidityGross": "156383980684400058257830271",
+        "liquidityNet": "156383980684400058257830271"
+      },
+      {
+        "index": 48600,
+        "liquidityGross": "18999368591843974548279618",
+        "liquidityNet": "18999368591843974548279618"
+      },
+      {
+        "index": 49600,
+        "liquidityGross": "176016618202627871426554721",
+        "liquidityNet": "176016618202627871426554721"
+      },
+      {
+        "index": 51200,
+        "liquidityGross": "335355890695673651180371562",
+        "liquidityNet": "-16677345709582091672737880"
+      },
+      {
+        "index": 53000,
+        "liquidityGross": "313675640520053208726255395",
+        "liquidityNet": "313675640520053208726255395"
+      },
+      {
+        "index": 65000,
+        "liquidityGross": "313675640520053208726255395",
+        "liquidityNet": "-313675640520053208726255395"
+      },
+      {
+        "index": 69200,
+        "liquidityGross": "175383349276244032806109889",
+        "liquidityNet": "-175383349276244032806109889"
+      },
+      {
+        "index": 84600,
+        "liquidityGross": "159339272493045779753816841",
+        "liquidityNet": "-159339272493045779753816841"
+      },
+      {
+        "index": 887200,
+        "liquidityGross": "64807406984078602310203755",
+        "liquidityNet": "-64807406984078602310203755"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x59c5c87b0684046f42b7f417d34ac42b17a22cbc",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "4182233070674939648994594",
+      "tick": -196995
+    },
+    "liquidity": "20039341871618656263305",
+    "tickSpacing": 1,
+    "tickIndices": [
+      -198544,
+      -46055
+    ],
+    "ticks": [
+      {
+        "index": -198544,
+        "liquidityGross": "20039341871618656263305",
+        "liquidityNet": "20039341871618656263305"
+      },
+      {
+        "index": -46055,
+        "liquidityGross": "20039341871618656263305",
+        "liquidityNet": "-20039341871618656263305"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0xa705e8aaad4fcc63b0741d2067182f5dcac25da7",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "49871090327477113126341703892051",
+      "tick": 128903
+    },
+    "liquidity": "1555894190975071074972",
+    "tickSpacing": 60,
+    "tickIndices": [
+      59940,
+      128940,
+      129120,
+      130260
+    ],
+    "ticks": [
+      {
+        "index": 59940,
+        "liquidityGross": "1555894190975071074972",
+        "liquidityNet": "1555894190975071074972"
+      },
+      {
+        "index": 128940,
+        "liquidityGross": "1555894190975071074972",
+        "liquidityNet": "-1555894190975071074972"
+      },
+      {
+        "index": 129120,
+        "liquidityGross": "229699387334680608379",
+        "liquidityNet": "229699387334680608379"
+      },
+      {
+        "index": 130260,
+        "liquidityGross": "229699387334680608379",
+        "liquidityNet": "-229699387334680608379"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0xda4e9b7527ce0ca3298165a1184789e0d47b1327",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "23523764756511247384358181977944",
+      "tick": 113874
+    },
+    "liquidity": "11713438133084157",
+    "tickSpacing": 200,
+    "tickIndices": [
+      111600,
+      161200
+    ],
+    "ticks": [
+      {
+        "index": 111600,
+        "liquidityGross": "11713438133084157",
+        "liquidityNet": "11713438133084157"
+      },
+      {
+        "index": 161200,
+        "liquidityGross": "11713438133084157",
+        "liquidityNet": "-11713438133084157"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0xb549a2ca7eced2b4e57220417be4ef97f2cb35a4",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "183550013275067007227461872",
+      "tick": -121359
+    },
+    "liquidity": "0",
+    "tickSpacing": 10,
+    "tickIndices": [],
+    "ticks": []
+  },
+  {
+    "poolAddress": "0xf88d6dcb1d354e834bf5024ceca5b4e959bb9c7e",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "3210064452494048737420915182262369",
+      "tick": 212200
+    },
+    "liquidity": "20360823900897",
+    "tickSpacing": 200,
+    "tickIndices": [
+      212200,
+      212400
+    ],
+    "ticks": [
+      {
+        "index": 212200,
+        "liquidityGross": "20360823900897",
+        "liquidityNet": "20360823900897"
+      },
+      {
+        "index": 212400,
+        "liquidityGross": "20360823900897",
+        "liquidityNet": "-20360823900897"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0xbf1eb45a0ffbea7dd425ca7b6d42b822c62e3cd2",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "84469785833772363745026031447643",
+      "tick": 139443
+    },
+    "liquidity": "63247601541618399725",
+    "tickSpacing": 60,
+    "tickIndices": [
+      -887220,
+      887220
+    ],
+    "ticks": [
+      {
+        "index": -887220,
+        "liquidityGross": "63247601541618399725",
+        "liquidityNet": "63247601541618399725"
+      },
+      {
+        "index": 887220,
+        "liquidityGross": "63247601541618399725",
+        "liquidityNet": "-63247601541618399725"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x7a159428b7b8a165e99e3e196f676aacc5bb513e",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "20631508182806648798565121299506",
+      "tick": 111250
+    },
+    "liquidity": "1006204745560908320711177",
+    "tickSpacing": 200,
+    "tickIndices": [
+      -887200,
+      887200
+    ],
+    "ticks": [
+      {
+        "index": -887200,
+        "liquidityGross": "1006204745560908320711177",
+        "liquidityNet": "1006204745560908320711177"
+      },
+      {
+        "index": 887200,
+        "liquidityGross": "1006204745560908320711177",
+        "liquidityNet": "-1006204745560908320711177"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x58545160107b4c6433d6b98399675e997421fc46",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "1948030793329132435",
+      "tick": -488601
+    },
+    "liquidity": "20438311322524921909531",
+    "tickSpacing": 200,
+    "tickIndices": [
+      -488800,
+      -488600
+    ],
+    "ticks": [
+      {
+        "index": -488800,
+        "liquidityGross": "20438311322524921909531",
+        "liquidityNet": "20438311322524921909531"
+      },
+      {
+        "index": -488600,
+        "liquidityGross": "20438311322524921909531",
+        "liquidityNet": "-20438311322524921909531"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0xbf25e68f031f380f21a38b4f0a13e76b311dc49d",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "3210106207300126021454688261494240",
+      "tick": 212200
+    },
+    "liquidity": "20360823900897",
+    "tickSpacing": 200,
+    "tickIndices": [
+      212200,
+      212400
+    ],
+    "ticks": [
+      {
+        "index": 212200,
+        "liquidityGross": "20360823900897",
+        "liquidityNet": "20360823900897"
+      },
+      {
+        "index": 212400,
+        "liquidityGross": "20360823900897",
+        "liquidityNet": "-20360823900897"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x0af97ee2c8eeb9e0cb6aa90bc81e2fc4ea65cfae",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "14311249028328263386647905986358",
+      "tick": 103934
+    },
+    "liquidity": "2315233273592082387669450",
+    "tickSpacing": 60,
+    "tickIndices": [
+      -887220,
+      887220
+    ],
+    "ticks": [
+      {
+        "index": -887220,
+        "liquidityGross": "2315233273592082387669450",
+        "liquidityNet": "2315233273592082387669450"
+      },
+      {
+        "index": 887220,
+        "liquidityGross": "2315233273592082387669450",
+        "liquidityNet": "-2315233273592082387669450"
+      }
+    ]
+  },
+  {
+    "poolAddress": "0x6c98cca476ae1c4b0460dd62fa6a07fa6347d277",
+    "blockNumber": 21800650,
+    "slot0": {
+      "sqrtPriceX96": "1461446703485210103287273052203988822378723970341",
+      "tick": 887271
+    },
+    "liquidity": "0",
+    "tickSpacing": 60,
+    "tickIndices": [
+      36900,
+      128940,
+      129000,
+      129060
+    ],
+    "ticks": [
+      {
+        "index": 36900,
+        "liquidityGross": "1521762274161177977184",
+        "liquidityNet": "1521762274161177977184"
+      },
+      {
+        "index": 128940,
+        "liquidityGross": "1521762274161177977184",
+        "liquidityNet": "-1521762274161177977184"
+      },
+      {
+        "index": 129000,
+        "liquidityGross": "4311881339434273991911",
+        "liquidityNet": "4311881339434273991911"
+      },
+      {
+        "index": 129060,
+        "liquidityGross": "4311881339434273991911",
+        "liquidityNet": "-4311881339434273991911"
+      }
+    ]
+  }
+]

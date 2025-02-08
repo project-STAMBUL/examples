@@ -9,21 +9,16 @@ import { Contract, Provider } from 'ethers-multicall'
 
 export interface PoolData {
   address: string
-  tokenA: Token
-  tokenB: Token
-  fee: FeeAmount
+  // tokenA: Token
+  // tokenB: Token
+  // fee: FeeAmount
   sqrtPriceX96: JSBI
   liquidity: JSBI
   tick: number
   tickSpacing: number
 }
 
-export async function getPoolData(blockNum: number): Promise<PoolData> {
-  const poolAddress = Pool.getAddress(
-    CurrentConfig.pool.token0,
-    CurrentConfig.pool.token1,
-    CurrentConfig.pool.fee
-  )
+export async function getPoolData(blockNum: number, poolAddress: string): Promise<PoolData> {
   const poolContract = new ethers.Contract(
     poolAddress,
     IUniswapV3PoolABI.abi,
@@ -43,15 +38,16 @@ export async function getPoolData(blockNum: number): Promise<PoolData> {
   ])
   return {
     address: poolAddress,
-    tokenA: CurrentConfig.pool.token0,
-    tokenB: CurrentConfig.pool.token1,
-    fee: CurrentConfig.pool.fee,
+    // tokenA: CurrentConfig.pool.token0,
+    // tokenB: CurrentConfig.pool.token1,
+    // fee: CurrentConfig.pool.fee,
     sqrtPriceX96: JSBI.BigInt(slot0.sqrtPriceX96.toString()),
     liquidity: JSBI.BigInt(liquidity.toString()),
     tick: parseInt(slot0.tick),
     tickSpacing: tickSpacing,
   }
 }
+
 
 export async function getTickIndicesInWordRange(
   poolAddress: string,
