@@ -79,7 +79,9 @@ async function main() {
       result.push(poolResult)
 
     } catch (error) {
-      console.error(`Error processing pool ${poolAddress}:`, error)
+      console.error(`Error processing pool ${poolAddress}:`)
+      
+      throw error
     }
   }
 
