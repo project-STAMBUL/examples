@@ -25,7 +25,8 @@ export interface ExampleConfig {
 // Example Configuration
 
 export const CurrentConfig: ExampleConfig = {
-  env: Environment.MAINNET,
+  // env: Environment.MAINNET,
+  env: Environment.LOCAL,
   rpc: {
     local: 'http://localhost:8545',
     // mainnet: 'https://mainnet.infura.io/v3/191f1a7c504d40af8a7f06d458c631a7',

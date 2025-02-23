@@ -560,6 +560,32 @@
     ]
   },
   {
+    "poolAddress": "0x59c5c87b0684046f42b7f417d34ac42b17a22cbc",
+    "blockNumber": 21907743,
+    "slot0": {
+      "sqrtPriceX96": "4081951077327857550659741",
+      "tick": -197481
+    },
+    "liquidity": "20039341871618656263305",
+    "tickSpacing": 1,
+    "tickIndices": [
+      -198544,
+      -46055
+    ],
+    "ticks": [
+      {
+        "index": -198544,
+        "liquidityGross": "20039341871618656263305",
+        "liquidityNet": "20039341871618656263305"
+      },
+      {
+        "index": -46055,
+        "liquidityGross": "20039341871618656263305",
+        "liquidityNet": "-20039341871618656263305"
+      }
+    ]
+  },
+  {
     "poolAddress": "0xa705e8aaad4fcc63b0741d2067182f5dcac25da7",
     "blockNumber": 21907743,
     "slot0": {

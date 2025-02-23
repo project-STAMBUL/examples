@@ -81,7 +81,7 @@ async function main() {
     } catch (error) {
       console.error(`Error processing pool ${poolAddress}:`)
       
-      throw error
+      // throw error
     }
   }
 
